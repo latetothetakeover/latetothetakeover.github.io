@@ -2,7 +2,8 @@
 title: "I Found Bitcoin Takeover at the Last TABConf Ever (Yes, I'm Late)"
 seo_title: "Late to the Takeover: Finding Bitcoin Takeover at the Final TABConf (S17 E46)"
 description: "I found Bitcoin Takeover at the last TABConf ever. A 20-year-old Atlanta student reviews S17 E46: Paul Sztorc, Christopher Allen and more."
-date: 2026-10-21 08:00:00 -0400
+date: 2026-10-20 21:37:00 -0400
+permalink: /2026/10/tabconf-8-livestream-bitcoin-takeover-s17-e46/
 slug: tabconf-8-livestream-bitcoin-takeover-s17-e46
 tags: [Bitcoin Takeover, S17 E46, TABConf 8, Atlanta, Paul Sztorc, Christopher Allen, Michael Tidwell, Bitcoin Privacy, Podcast Review]
 episode: S17 E46

@@ -23,3 +23,7 @@ Links written in Markdown render as plain `<a href>` with no rel attribute, so t
 ## Top 10
 `top-10.md` has `published: false`. Once there are 20 or more posts, fill in the list and delete that line. The nav link appears automatically
 once `site.posts.size >= top10_threshold` (20, set in `_config.yml`).
+
+## Scheduled publishing
+`future: false` is set in `_config.yml`. Give a new post a future `date:` set to a random slot between 16:00 and 02:00 Atlanta time, e.g. `date: 2026-10-23 22:41:00 -0400` (use `-0500` once EST starts on Nov 1), then push it.
+The workflow rebuilds every hour at :07, so the post goes live within about an hour of its timestamp. GitHub pauses scheduled workflows after 60 days with no repo activity; regular posting keeps it running.
