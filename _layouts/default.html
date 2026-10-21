@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en_US' | replace: '_', '-' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.seo_title %}{{ page.seo_title | escape }}{% elsif page.title %}{{ page.title | escape }} | {{ site.title | escape }}{% else %}{{ site.title | escape }} | {{ site.tagline | escape }}{% endif %}</title>
+  {% seo title=false %}
+  {% if page.noindex %}<meta name="robots" content="noindex, follow">{% endif %}
+  {% feed_meta %}
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <p class="tagline">{{ site.tagline }}</p>
+    <nav>
+      <a href="{{ '/' | relative_url }}">Posts</a>
+      <a href="{{ '/tags/' | relative_url }}">Tags</a>
+      {% if site.posts.size >= site.top10_threshold %}<a href="{{ '/top-10/' | relative_url }}">Top 10</a>{% endif %}
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+    </nav>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer class="site-footer">
+    <p><strong>Unofficial fan blog.</strong> Not affiliated with <a href="https://bitcoin-takeover.com/">Bitcoin Takeover</a> or Vlad Costea. Nothing here is financial advice.</p>
+    <p>Contact: {{ site.email }}</p>
+  </footer>
+</body>
+</html>

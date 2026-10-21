@@ -1,0 +1,12 @@
+---
+title: Tags
+permalink: /tags/
+description: Every Bitcoin Takeover episode review on Late to the Takeover, sorted by guest, topic and season.
+---
+{% assign tags = site.tags | sort %}
+{% for tag in tags %}
+<h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
+<ul>
+  {% for post in tag[1] %}<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>{% endfor %}
+</ul>
+{% endfor %}

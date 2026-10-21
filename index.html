@@ -1,0 +1,16 @@
+---
+layout: default
+title: Home
+---
+<section class="intro">
+  <p>I'm Nico, 20, an econ major in Atlanta. I found the Bitcoin Takeover podcast at the <em>last TABConf ever</em>, so I'm late. Like, 360-episodes late. This is me catching up.</p>
+</section>
+<ul class="post-list">
+  {% for post in site.posts %}
+  <li>
+    <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}{% if post.rating %} · {{ post.rating }}/5{% endif %}</span>
+    {% if post.description %}<p>{{ post.description }}</p>{% endif %}
+  </li>
+  {% endfor %}
+</ul>

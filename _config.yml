@@ -1,0 +1,39 @@
+title: Late to the Takeover
+tagline: Found the show at its final TABConf. Now catching up on everything I missed.
+description: >-
+  An unofficial Bitcoin Takeover podcast fan blog. A 20-year-old Atlanta student who
+  found the show at the last TABConf ever reviews the whole back catalog, one episode at a time.
+url: "https://latetothetakeover.github.io"
+baseurl: ""
+lang: en_US
+timezone: America/New_York
+author:
+  name: Nico
+  email: latetothetakeover@proton.me
+email: latetothetakeover@proton.me
+social:
+  name: Nico
+permalink: /:year/:month/:title/
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+feed:
+  path: feed.xml
+defaults:
+  - scope: { path: "", type: posts }
+    values: { layout: post, author: Nico }
+  - scope: { path: "" }
+    values: { layout: page }
+top10_threshold: 20
+# Build posts dated in the future too (post #1 is dated 2026-10-21 Atlanta time). Set to false to use future dates as a scheduling queue.
+future: true
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - .bundle
