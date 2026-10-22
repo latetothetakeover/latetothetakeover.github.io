@@ -15,13 +15,13 @@ rating: 4.5
 
 Okay, confession first: TABConf 8 happened about two miles from my dorm, and I watched it on a laptop in the Georgia State library with one earbud in, "studying" for an econ midterm. It was the final edition. I didn't know that. Massive L. Welcome to Late to the Takeover, where I show up at the funeral and then binge the whole life story.
 
-What I stumbled into was [Bitcoin Takeover's TABConf 8 livestream, Part 1](https://bitcoin-takeover.com/s17-e46-livestream-from-tabconf-8-part-1-feat-paul-sztorc-andre-beganski-alex-lewin-janusz-christopher-allen-will-michael-tidwell/): two hours and forty minutes of a guy with a tripod in the hallway of the Georgia Tech Exhibition Hall, grabbing anyone interesting while the organizer held a Town Hall that everyone was calling the conference's obituary. The host, Vlad, literally opens with "there is a funeral happening in the room behind me, and I am not attending it." I was hooked in one sentence, no cap.
+What I stumbled into was [Bitcoin Takeover's TABConf 8 livestream, Part 1](https://bitcoin-takeover.com/s17-e46-livestream-from-tabconf-8-part-1-feat-paul-sztorc-andre-beganski-alex-lewin-janusz-christopher-allen-will-michael-tidwell/): two hours and forty minutes of two armchairs in front of a giant gold "eCash.com" banner, with the host, Vlad, holding a mic and pulling in whoever wandered past. Then, introducing a guest, he says it: there's "a funeral of TABConf happening in the room behind me and I'm not attending it." I was hooked in one sentence, no cap.
 
 **How late am I? ⏰** Aired October 15, 2026. Late by six days, which is the least late I will ever be on this blog.
 
 ## The camera died and it somehow made it better
 
-Eleven minutes in, the camera just dies. He switches to a laptop webcam, the angle goes crooked, and someone delivers "It's crooked just like Bitcoin Core." I laughed so loud the girl across the table moved.
+Eleven minutes in, Vlad goes "My camera died," the picture flips to a tilted webcam shot, and the table decides "It's crooked just like Bitcoin Core." I laughed so loud the girl across the table moved.
 
 Before that, Paul Sztorc was demoing a soft fork with four quantum-resistant signature options and a button to "sweep your coins into a quantum-resistant UTXO." When will miners run it? "Never. A million billion years." Because they're "spineless cowards with no leadership skills." Unhinged (affectionately). I had to google "UTXO" mid-stream, ngl.
 
@@ -31,7 +31,7 @@ Christopher Allen showed up, and I learned that he led the community around SSL 
 
 Then Alex Lewin said "In order to be free, you have to have privacy," and as a guy who doesn't even post his face online, I felt seen.
 
-**Lore Drop 📜:** in 2019, TABConf got scammed on catering. The organizer, Michael Tidwell, wired $10,000 for three days of lunches and got bread "with like a slice of cheese and one slice of turkey." He came straight from his own conference's "funeral" to tell it. Iconic.
+**Lore Drop 📜:** in 2019, TABConf got scammed on catering. The organizer, Michael Tidwell, wired $10,000 for three days of lunches and got bread "with like a slice of cheese and one slice of turkey." He told it minutes after his own conference's "funeral." Iconic.
 
 ## Side Quest 🎮
 
@@ -41,7 +41,7 @@ I texted my little brother Eli that I couldn't play Rocket League that night bec
 
 The table agrees building stuff is easy now, but showing up is what makes people care, and the line gets delivered straight to the camera: "Unless I see your face here, I'm going to assume that you're AI on Twitter." As a pseudonymous blogger with zero face pics… I'm human, I promise. Next Atlanta Bitcoin event, I'm going in person (face still not included).
 
-Bonus lore: Vlad was handing out copies of his [BTCTKVR: Forks! magazine](https://bitcoin-takeover.com/forksmag/) at the conference. Downloading it instead of doing my problem set.
+Bonus lore: Vlad keeps handing guests copies of his [BTCTKVR: Forks! magazine](https://bitcoin-takeover.com/forksmag/) on camera, and there's a free digital edition. Downloading it instead of doing my problem set.
 
 Part 2 is next. Then I'm going all the way back to Season 1 in 2019, because apparently there are 360+ episodes and I'm roughly seven years late. Time to catch up.
 
