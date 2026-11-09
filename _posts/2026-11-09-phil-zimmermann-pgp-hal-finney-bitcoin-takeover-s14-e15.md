@@ -1,7 +1,7 @@
 ---
 title: "Phil Zimmermann Made Encryption Legal to Share, Then Said He'd Get to Bitcoin Later"
 seo_title: "Bitcoin Takeover S14 E15 Review: Phil Zimmermann on Bitcoin, PGP & Hal Finney"
-description: "Bitcoin Takeover S14 E15: PGP creator Phil Zimmermann on cypherpunks, the NSA, Hal Finney, proof of work and his doubts about Bitcoin. A latecomer's review."
+description: "Bitcoin Takeover S14 E15: PGP creator Phil Zimmermann on cypherpunks, the NSA, Hal Finney, proof of work and Bitcoin doubts. A latecomer's review."
 date: 2026-11-09 21:42:00 -0500
 permalink: /2026/11/phil-zimmermann-pgp-hal-finney-bitcoin-takeover-s14-e15/
 slug: phil-zimmermann-pgp-hal-finney-bitcoin-takeover-s14-e15
